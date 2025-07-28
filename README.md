@@ -81,3 +81,6 @@ Privacy & Security Commands
 * `/unblock @user`     : Unblock a user
 ```
 
+
+All credit goes to https://github.com/kaganisildak/bitchat-python
+
